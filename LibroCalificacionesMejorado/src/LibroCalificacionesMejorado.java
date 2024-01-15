@@ -161,7 +161,7 @@ public class LibroCalificacionesMejorado
 
             for (int estrellas = 0; estrellas < frecuencia[cuenta]; estrellas++)
             {
-                System.out.print("*");
+                System.out.print("#");
             }
             System.out.println();
         }
